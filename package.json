@@ -1,5 +1,5 @@
 {
-  "name": "8.favriout_number",
+  "name": "11.names",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.11.21"
+    "@types/node": "^20.11.22"
   }
 }
