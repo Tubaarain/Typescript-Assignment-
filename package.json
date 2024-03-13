@@ -1,5 +1,5 @@
 {
-  "name": "13.your_own_array",
+  "name": "14.guest_list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.11.23"
+    "@types/node": "^20.11.24"
   }
 }
